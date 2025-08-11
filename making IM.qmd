@@ -1,0 +1,153 @@
+---
+title: "Probability of Two Events"
+author: "Ryan Jhon Lee Lajola"
+format: html
+editor: visual
+---
+
+# Probability of Two Events
+
+Let us recall from our previous lesson the following concepts on probability.
+
+1.  The probability of an event (E) is given by the formula:
+
+𝑷(𝑬) = 𝒏𝒖𝒎𝒃𝒆𝒓 𝒐𝒇 𝒇𝒂𝒗𝒐𝒓𝒂𝒃𝒍𝒆 𝒐𝒖𝒕𝒄𝒐𝒎𝒆𝒔 𝒏(𝑬) / 𝒏𝒖𝒎𝒃𝒆𝒓 𝒐𝒇 𝒂𝒍𝒍 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆 𝒐𝒖𝒕𝒄𝒐𝒎𝒆𝒔 𝒏(𝑺)
+
+2.  The probability of an event must be a number from 0 to 1. That is, 𝟎 ≤ 𝑷(𝑬) ≤ 𝟏.
+
+3.  The union of events A and B, denoted by A ∪ B, is the set of all outcomes for either A or B.
+
+4.  The intersection of events A and B, denoted by A ∩ B, is the set of all outcomes shared by A and B.
+
+### Exercise 1
+
+Direction: Identify whether the events can happen at the same time or if they can’t happen at the same time. Write your answer at the column where they are belonged.
+
+Events:
+
+1)  A = tossing a coin and getting a head
+
+    B = tossing a coin and getting a tail
+
+2)  A = rolling a die and getting a factor of 6
+
+    B = rolling a die and getting a prime number
+
+3)  A = a heart is drawn from a standard deck of cards
+
+    B = a face card is drawn from a standard deck of cards
+
+4)  A = an ‘8’ is drawn from a standard deck of cards
+
+    B = a king is drawn from a standard deck of cards
+
+5)  A = a multiple of 3 turning up in rolling a die once
+
+    B = a factor of 4 turning up in rolling a die once
+
+|                                |                                  |
+|:------------------------------:|:--------------------------------:|
+| It can happen at the same time | It can't happen at the same time |
+|                                |                                  |
+
+Were you able to identify the events that can occur at the same time and the events that cannot occur at the same time?
+
+The pair of events in Exercise 1 are compound events and they could either be mutually exclusive or not mutually exclusive events.
+
+## Compound Event
+
+A compound event consists of two or more simple events that are connected by the word and or or.
+
+## Mutually Exclusive Event
+
+Two events are mutually exclusive if both events cannot occur at the same time. These events have no common elements. They are also called disjoint events.
+
+Example 1. In tossing a coin once, the events of getting a head and getting a tail are mutually exclusive events because they cannot appear at the same time. If A is the event of getting a head and B is the event of getting a tail, then, 𝑨 ∩ 𝑩 = { } or 𝑛(𝑨 ∩ 𝑩) = 𝟎. That is, there is no common element in events A and B.
+
+## Not Mutually Exclusive Event
+
+Two events are not mutually exclusive if both events can occur at the same time. These events have common elements. They are also called inclusive events.
+
+Example 2. In rolling a six-sided die once, the events ‘a 2 turning up’ and ‘an even number turning up’ are not mutually exclusive events. If A is the event of ‘a 2 turning up’ and B is the event of ‘an even number turning up’, then, A = {2} and B = {2, 4, 6}. Observe that the number 2 is common to both events A and B, therefore, 𝑨 ∩ 𝑩 = {𝟐} 𝑜𝑟 𝑛(𝑨 ∩ 𝑩) = 𝟏.
+
+## Probability of Mutually Exclusive Events
+
+If two events, A and B, are mutually exclusive, then the probability that either A or B occurs is the sum of their probabilities. In symbols
+
+𝑷(𝑨 𝐨𝐫 𝑩) = 𝑷(𝑨 ∪ 𝑩) = 𝑷(𝑨) + 𝑷(𝑩)
+
+![](01.png)
+
+Example. A bag contains 4 blue marbles, 8 green marbles and 6 red marbles. Carlo draws one ball at random. What is the probability that the marble is either red or green?
+
+Solution: A ball cannot be both red and green, so these are mutually exclusive events.
+
+𝑃(red or green) = 𝑃(red) + 𝑃(green) = 6/18 + 8/18 = 14/18 or 7/9
+
+The probability that the drawn marble is either red or green is 7/9.
+
+## Probability of Mutually Exclusive Events
+
+Probability of Not Mutually Exclusive Events For any two events A and B of the same experiment which are not mutually exclusive events, the probability of the union of A and B is
+
+𝑷(𝑨 𝒐𝒓 𝑩) = 𝑷(𝑨) + 𝑷(𝑩) − 𝑷(𝑨 𝒂𝒏𝒅 𝑩) 𝑷(𝑨 ∪ 𝑩) = 𝑷(𝑨) + 𝑷(𝑩) − 𝑷(𝑨 ∩ 𝑩)
+
+![](02.png)
+
+Example. A die is rolled once. What is the probability of an even number or a factor of 6 turning up?
+
+Solution: A die has six faces numbered 1 – 6, so, 𝑛(𝑆) = 6. Let event: A = {even number} and B = {factor of 6}
+
+A = {2, 4, 6} B = {1, 2, 3, 6} 𝐴 ∩ 𝐵 = {2, 6}
+
+Now, let’s use the formula
+
+𝑃(𝐴 ∪ 𝐵) = 𝑃(𝐴) + 𝑃(𝐵) − 𝑃(𝐴 ∩ 𝐵) = 3/6 + 4/6 - 2/6 = 5/6
+
+The probability of getting an even number or a factor of 6 is 5/6.
+
+### Activity 1
+
+Direction: Write **ME** if the events are mutually exclusive and **NME** if it is not mutually exclusive.
+
+1.  Drawing ‘a jack’ and ‘a club’ from a standard deck of cards.
+
+2.  Drawing ‘a 7’ and ‘a 4’ from a standard deck of cards.
+
+3.  Picking ‘a blue ball’ and ‘a red ball’ in a basket.
+
+4.  Electing ‘the president’ and ‘the secretary’ of the class.
+
+5.  Getting ‘an even number’ and ‘a factor of 4’ in rolling a fair die once.
+
+### Activity 2
+
+Direction: Solve for its probability of two events. Show your complete solutions.
+
+1.  A card is drawn at random from a standard deck of 52 cards. What is the probability of drawing an ace, a 10 or a king?
+
+2.  In this ‘new normal situation’, nobody can go out without wearing a face mask. Mark has 15 disposable face masks: 4 are red, 6 are blue and 5 are green. What is the probability that he will wear a red or a blue face mask today?
+
+3.  If there is 30% chance of rain on Saturday, 70% chance of rain on Sunday, and 21% chance of rain on Saturday and Sunday, what is the probability that it will rain on either Saturday or Sunday?
+
+4.  Each of the numbers 1 – 30 is written on a slip of paper, rolled and put in a box and mixed thoroughly. One number is picked up at random. Find the probability that the picked number is even or a multiple of 5?
+
+5.  A box contains 2 red, 4 green, 5 blue and 3 yellow marbles. If a single random marble is chosen from the box, what is the probability that it is red or green marble?
+
+6.  In a math class of 30 students, 17 are boys and 13 are girls. On a unit test, 4 boys and 5 girls made an A grade. If a student is chosen at random from the class, what is the probability of choosing a girl or an A student?
+
+7.  A pair of dice is rolled. What is the probability that the two dice show the same number or that the sum of the numbers is less than 5?
+
+8.  If a card is drawn at random from a 52-deck of cards. Find the probability of getting a heart or a diamond.
+
+### Assessment
+
+Direction: Identify whether the events are mutually exclusive and not mutually exclusive. Solve for its probability. Show your complete solutions.
+
+1.  There are 12 DVDs, 7 video games, 14 CDs, and 3 videotapes on Jaime’s bedroom shelf. If Jaime selects an item at random from the shelf, what is the probability that it is a DVD or a video tape?
+
+2.  Karen’s book bag contains 3 novels, 1 biography, and 1 science book. Manny’s book bag contains 1 math book, 2 science books, and 1 poetry book. Each student selects a book at random from his or her bag. What is the probability that either Karen’s book is a novel or Manny’s book is a math book?
+
+3.  Sigmund picked a pair of socks out of his drawer without looking in the drawer. Sigmund has 3 pairs of black dress socks, 4 pairs of brown dress socks, 3 pairs of black sport socks, and 5 pairs of white sport socks. What is the probability that Sigmund will select a pair of black socks or a pair of sport socks?
+
+4.  There are 8 girls and 12 boys in Miss Reading’s homeroom. Five of the girls play sports and 3 do not play sports. Eight of the boys play sports and 4 do not play sports. If a student is selected at random, what is the probability that the student is a boy or plays sports? Express your answer as a fraction.
