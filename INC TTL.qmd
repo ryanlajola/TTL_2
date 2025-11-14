@@ -1,0 +1,221 @@
+---
+title: "Introduction To Logic"
+author: "Ryan Jhon Lee Lajola"
+format: pdf
+editor: visual
+---
+
+
+# Introduction to Logic
+
+## Learning Objectives
+
+At the end of the lesson, the students are expected to:
+
+1. Define and illustrate a **proposition**  
+2. Distinguish between **simple** and **compound** propositions  
+3. Demonstrate understanding of propositions through **real-life applications**
+
+---
+
+## Content Standards
+
+The learner demonstrates understanding of key concepts in **propositional logic**, **syllogisms**, and **fallacies**.
+
+## Performance Standards
+
+The learner is able to **apply logic judiciously** in real-life arguments.
+
+## Learning Competencies
+
+- Illustrates and symbolizes propositions.  
+- Distinguishes between simple and compound propositions. (M11GM-IIg-3)  
+- Performs different types of operations on propositions. (M11GM-IIg-4)
+
+---
+
+# Review Activity
+
+### Activity: *Is it True?*
+
+Tell whether each item is **true**, **false**, or **cannot be determined**.
+
+1. Manila is the capital of the Philippines.  
+2. What is your favorite color?  
+3. 4 + 2 = 7  
+4. Who invented the microscope?  
+5. The Earth is round.
+
+**Guide Answer:**  
+1 – True  
+2 – Cannot be determined  
+3 – False  
+4 – Cannot be determined  
+5 – True  
+
+---
+
+# What is a Proposition?
+
+A **proposition** is a declarative sentence that is **either true or false**, but not both.  
+If the proposition is true, its truth value is **T**.  
+If the proposition is false, its truth value is **F**.
+
+Propositions are usually denoted by **small letters** such as *p*, *q*, *r*, etc.
+
+Example:
+
+- **p:** “Everyone should study logic.”
+
+We may write it symbolically as:
+
+> p is the proposition “Everyone should study logic.”
+
+---
+
+# Types of Propositions
+
+## Simple Proposition
+
+A **simple proposition** cannot be broken down into smaller propositions.
+
+**Examples:**
+
+1. Letter E is a vowel.  
+2. 2x + 5x = 7x  
+3. Bagabag is in Nueva Vizcaya.
+
+---
+
+## Compound Proposition
+
+A **compound proposition** is formed by connecting two or more simple propositions using logical connectors.
+
+### Logical Connectors
+
+- **~** : negation (not)  
+- **∨** : or  
+- **∧** : and  
+- **→** : if… then  
+- **↔** : if and only if  
+
+---
+
+# Examples on Logical Connectors
+
+Let:
+
+- **p:** Even numbers are divisible by 2  
+- **q:** Five is an odd number  
+
+Then:
+
+- **~p** : Even numbers are **not** divisible by 2  
+- **p ∨ q** : Even numbers are divisible by 2 **or** five is an odd number  
+- **p ∧ q** : Even numbers are divisible by 2 **and** five is an odd number  
+- **p → q** : If even numbers are divisible by 2, then five is an odd number  
+- **p ↔ q** : Even numbers are divisible by 2 *if and only if* five is an odd number
+
+---
+
+### Another Example
+
+Let:
+
+- **p:** The Earth is round  
+- **q:** The Moon orbits the Earth  
+
+Then:
+
+- **~p** : The Earth is not round  
+- **p ∨ q** : The Earth is round or the Moon orbits the Earth  
+- **p ∧ q** : The Earth is round and the Moon orbits the Earth  
+- **p → q** : If the Earth is round, then the Moon orbits the Earth  
+- **p ↔ q** : The Earth is round if and only if the Moon orbits the Earth  
+
+---
+
+# Activity 1: Logical Connectors
+
+Given:
+
+- **p:** Andrei is watching  
+- **q:** Justine shares a bond with Jane  
+
+Write the compound propositions:
+
+a. ~p  
+b. p ∨ q  
+c. p ∧ q  
+d. p → q  
+e. p ↔ q  
+
+**Answer Key:**
+
+a. Andrei is not watching.  
+b. Andrei is watching or Justine shares a bond with Jane.  
+c. Andrei is watching and Justine shares a bond with Jane.  
+d. If Andrei is watching, then Justine shares a bond with Jane.  
+e. Andrei is watching if and only if Justine shares a bond with Jane.
+
+---
+
+# Real-Life Application
+
+### Reflection Question
+
+**How can you apply the concept of propositions in real-life situations?**
+
+(Answers may vary.)
+
+---
+
+# Generalization
+
+1. What is a proposition?  
+2. What are the two types of propositions?  
+3. Give an example of each type.
+
+---
+
+# Evaluation
+
+### Part I. Identify if the statement is a proposition. If it is, give the truth value.
+
+1. Mindanao is an island in the Philippines.  
+2. Find a number that divides your age.  
+3. My seatmate will get a perfect score in the Logic exam.  
+4. Welcome to the Philippines!  
+
+### Part II. Symbolic Form
+
+Let:
+
+- **p:** You drive over 65 miles per hour.  
+- **q:** You get a speeding ticket.  
+
+Write the symbolic form:
+
+a. You do not drive over 65 miles per hour.  
+b. You will get a speeding ticket if you drive over 65 miles per hour.  
+c. If you do not drive over 65 miles per hour, then you will not get a speeding ticket.
+
+**Answer Key:**
+
+1.  
+- p: Proposition – True  
+- q: Not a proposition (directive)  
+- r: Proposition – truth depends on outcome  
+- s: Not a proposition (greeting)
+
+2.  
+a. ¬p  
+b. p → q  
+c. ¬p → ¬q  
+
+---
+
+# End of Lesson
+
+Thank you for listening!  
+Goodbye, class.
